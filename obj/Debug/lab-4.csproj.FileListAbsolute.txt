@@ -1,0 +1,10 @@
+C:\Users\megh9\source\repos\lab-4\bin\Debug\lab-4.exe.config
+C:\Users\megh9\source\repos\lab-4\bin\Debug\lab-4.exe
+C:\Users\megh9\source\repos\lab-4\bin\Debug\lab-4.pdb
+C:\Users\megh9\source\repos\lab-4\obj\Debug\lab-4.csproj.AssemblyReference.cache
+C:\Users\megh9\source\repos\lab-4\obj\Debug\lab_4.Form1.resources
+C:\Users\megh9\source\repos\lab-4\obj\Debug\lab_4.Properties.Resources.resources
+C:\Users\megh9\source\repos\lab-4\obj\Debug\lab-4.csproj.GenerateResource.cache
+C:\Users\megh9\source\repos\lab-4\obj\Debug\lab-4.csproj.CoreCompileInputs.cache
+C:\Users\megh9\source\repos\lab-4\obj\Debug\lab-4.exe
+C:\Users\megh9\source\repos\lab-4\obj\Debug\lab-4.pdb
